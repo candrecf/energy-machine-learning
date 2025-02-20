@@ -43,6 +43,16 @@ O sistema utiliza o microcontrolador **ESP32** para coletar dados de sensores de
 ## Resultados
 Os testes demonstraram que o sistema foi capaz de prever com **100% de precisão** os dispositivos conectados, utilizando uma matriz de confusão para validação.
 
+![Image](https://github.com/user-attachments/assets/789c9d05-1023-489a-a5cc-788f8679cb5a)
+![Image](https://github.com/user-attachments/assets/4d4f6033-ec78-4d1a-8927-de7bb5c45ee4)
+![Image](https://github.com/user-attachments/assets/b2d22cfd-81a5-4a0c-969b-0ec85307bb1b)
+![Image](https://github.com/user-attachments/assets/fbe89e18-d9e1-4b14-b5ff-f8173a2c7e2f)
+
+## Vídeo do resultado final
+Monitoramento de Cargas com Machine Learning
+<img width="1182" alt="Image" src="https://github.com/user-attachments/assets/3fde256b-308d-4478-8f09-4660c23438a8" />
+(https://www.youtube.com/watch?v=48c3q_FcSM4)
+
 ## Comparativo de Custos
 Comparado a sistemas tradicionais, o projeto demonstrou uma **redução de custos de até 62%**, pois elimina a necessidade de sensores individuais para cada carga elétrica.
 
